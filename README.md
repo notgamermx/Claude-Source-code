@@ -1,3 +1,5 @@
+NPM:- https://www.npmjs.com/package/@anthropic-ai/claude-code
+
 # Claude Code — Complete Overview
 
 > **Package:** `@anthropic-ai/claude-code` v2.1.89  
